@@ -1,13 +1,13 @@
 $(document).ready(function(){
     //hide and show sections
 $("#sec2").click(function(){
-$(".menu-list").toggle();
+$(".menu-list").show();
 $(".form-style").hide();
 $(".btn-style").hide();
 $(".clear").hide();
 $('#bill-div').hide();
 $("#sec1").css("height","80px");
-$("#sec2").css("height","300px");
+$("#sec2").css("height","200px");
 });
 $("#sec1").click(function(){
     $(".form-style").show();
