@@ -105,6 +105,16 @@ a.nav-link{
     text-align: center;
 }
 }
+@media (max-width:377px){
+.navbar-toggler{
+    width: 30px;
+    height: 30px;
+}
+.navbar-toggler-icon{
+  margin-left: -12px;
+  margin-top: -5px;
+}
+}
 /*footer style*/
 .panel-footer{
     margin-top: 120px;
