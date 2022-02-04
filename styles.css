@@ -120,7 +120,7 @@ span.menu-salary{
     margin-right: -10px;
 }
 }
-@media (min-width:200px) and (max-width:377px){
+@media (max-width:377px){
 .navbar-toggler{
     width: 30px;
     height: 30px;
@@ -136,7 +136,16 @@ span.menu-salary{
 .fontf{
     font-size: 20px;
 }
-
+}
+@media (max-width:290px){
+    .fontf{
+        font-size: 15px;
+        margin-left: -90px;
+    }
+    img{
+        height: 30px;
+        width: 30px;
+    }
 }
 /*footer style*/
 .panel-footer{
