@@ -3,7 +3,7 @@
     background-color: rgb(243, 146, 162);
 }
 .fontf{
-    font-family: 'Kumbh Sans', sans-serif;
+    font-family: 'Comforter','Dancing Script','Supermercado One', cursive;
     color: white;
     font-weight: 600;
     text-decoration:overline;
@@ -34,8 +34,8 @@ h4.h4-style:hover{
 text-decoration: none;
 cursor: pointer;
 font-family: 'Kumbh Sans', sans-serif;
-color:white;
-filter:drop-shadow(1px 1px 5px rgb(90, 86, 86));
+color:rgb(250, 163, 163);
+filter:drop-shadow(1px 1px 5px rgb(219, 203, 203));
 
 }
 div.sm-pos{
@@ -109,7 +109,7 @@ a.nav-link{
 .panel-footer{
     margin-top: 120px;
     background-color: rgb(250, 203, 219);
-    font-family: 'Kumbh Sans', sans-serif;
+   font-family: 'Kumbh Sans', sans-serif;
 }
 div.row span,p,q{
     font-size: 14px;
